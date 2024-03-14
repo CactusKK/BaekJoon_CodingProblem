@@ -70,12 +70,12 @@ int main() {
         }
     }
 
-
-
 	return 0;
 }
 
 
-void shot_laser( pair<int, int> position, pair<int, int> direction ) {
+void shot_laser( pair<int, int> position, pair<int, int> direction, char *map[8][8] ) {
+    while () {
 
+    }
 }
